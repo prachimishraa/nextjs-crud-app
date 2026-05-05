@@ -6,7 +6,7 @@ A simple User CRUD application built with Next.js 14 (App Router) and TypeScript
 
 ## Live Demo
 
-[View on Vercel](https://your-app.vercel.app/users) <!-- replace with your actual URL -->
+[View on Vercel]([https://your-app.vercel.app/user](https://nextjs-crud-app-mocha.vercel.app/users)s) <!-- replace with your actual URL -->
 
 ## Tech Stack
 
@@ -49,6 +49,6 @@ Open [http://localhost:3000/users](http://localhost:3000/users) in your browser.
 
 ## Notes
 
-- JSONPlaceholder is a fake API — updates and deletes do not persist on refresh. This is expected.
-- All mutations are optimistic — the UI updates before the API responds.
+- JSONPlaceholder is a fake API - updates and deletes do not persist on refresh. This is expected.
+- All mutations are optimistic - the UI updates before the API responds.
 - The Axios interceptor output is visible in the browser console (DevTools → Console).
