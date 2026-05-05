@@ -6,7 +6,7 @@ A simple User CRUD application built with Next.js 14 (App Router) and TypeScript
 
 ## Live Demo
 
-[View on Vercel]([https://your-app.vercel.app/user](https://nextjs-crud-app-mocha.vercel.app/users)s) <!-- replace with your actual URL -->
+[View on Vercel](https://nextjs-crud-app-mocha.vercel.app/users) <!-- replace with your actual URL -->
 
 ## Tech Stack
 
